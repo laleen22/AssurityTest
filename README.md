@@ -11,7 +11,7 @@ This repository contains the Rest API  automation for below given **Acceptance C
  - Unit - An automation framework; giving you the ability to rapidly write down test cases using the Java programming language.
  - Maven - Build automation tool
 ## Prerequisites
-In order to run this API suite, you should install bellow dependencies
+In order to run this API suite, you should install below dependencies
  - Java
  - Maven
  - Git 
