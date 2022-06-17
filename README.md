@@ -8,7 +8,7 @@ This repository contains the Rest API  automation for below given **Acceptance C
 ## Usage
  - Rest assured - Java library for testing Restful Web services
  - Cucumber - Behavior Driven Development (BDD) framework which is  used to write acceptance tests for the web application 
- - Unit - An automation framework; giving you the ability to rapidly write down test cases using the Java programming language.
+ - JUnit - An automation framework; giving you the ability to rapidly write down test cases using the Java programming language.
  - Maven - Build automation tool
 ## Prerequisites
 In order to run this API suite, you should install below dependencies
